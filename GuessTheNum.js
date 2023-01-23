@@ -36,3 +36,18 @@ function guessANumber() {
 }
 guessANumber();
 
+
+/* Add Difficulty
+
+You can add logic for difficulty, so the player can have only a few tries to guess the number.
+
+Restart the Game
+
+You can automatically restart the game after it is finished (or ask the player to play again).
+
+Additional Ideas
+
+· You can add levels so whenever the player guesses the number, the range between the minimum and maximum number gets bigger, e. g. Level 1 (1 - 100), Level 2 (1-200), etc.
+
+· Can you add anything else to your code based on your ideas? */
+
